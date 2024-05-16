@@ -401,7 +401,7 @@
             [499, 500, 501, 502, 503, 504]
           ],
           "id": 4,
-		  "properties": "teuing"
+          "properties": {"value": "teuing"}
         },
         {
           "type": "MultiPolygon",
@@ -1125,7 +1125,7 @@
             ]
           ],
           "id": 360,
-		  "properties": "indonesia"
+          "properties": {"value": "indonesia"}
         },
         {
           "type": "Polygon",

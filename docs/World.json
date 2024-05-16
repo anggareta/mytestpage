@@ -400,7 +400,8 @@
           "arcs": [
             [499, 500, 501, 502, 503, 504]
           ],
-          "id": 4
+          "id": 4,
+		  "properties": "teuing"
         },
         {
           "type": "MultiPolygon",
@@ -1123,7 +1124,8 @@
               [46]
             ]
           ],
-          "id": 360
+          "id": 360,
+		  "properties": "indonesia"
         },
         {
           "type": "Polygon",

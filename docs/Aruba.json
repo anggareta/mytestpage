@@ -5,7 +5,7 @@
     "translate": [-180, -89.99892578124998]
   },
   "objects": {
-    "aruba": {
+    "country": {
       "type": "Polygon",
       "arcs": [[0]],
       "id": 533

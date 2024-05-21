@@ -31197,7 +31197,7 @@
     ]
   },
   "objects": {
-    "country": {
+    "countries": {
       "type": "GeometryCollection",
       "geometries": [
         {
